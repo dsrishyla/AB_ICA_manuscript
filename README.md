@@ -1,4 +1,4 @@
-This repository contains the code used for the paper entitled "Eye movement artifact correction in infant EEG" from the Journal of Neuroscience Methods. 
+This repository contains the code used for the paper entitled ["Eye movement artifact correction in infant EEG"](https://www.sciencedirect.com/science/article/pii/S0165027025000469) from the Journal of Neuroscience Methods.
 
 ## Abstract:  
 
